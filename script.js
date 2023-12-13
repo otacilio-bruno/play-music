@@ -21,10 +21,15 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
-    {  img : './images/ALOK.jpeg',
-       name : 'Eletrônicas',
+    {  img : './images/al.jpeg',
+       name : 'Vila Mix',
        artist : 'ALOK',
        music : 'music/alok-villa-mix-brasilia-2017-melhores-musicas-eletronicas-mais-tocadas-2017.mp3'
+    },
+    {  img : './images/ALOK.jpeg',
+       name : 'Chainsmokers',
+       artist : 'ALOK',
+       music : 'music/jungle-official-video.mp3'
     },
     {  img : './images/bigui.jpeg',
        name : 'Sintonia Do Arrocha',
