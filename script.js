@@ -121,11 +121,6 @@ const music_list = [
         artist : 'NATTAN',
         music : 'music/diversas.mp3'
     },
-    {   img : './images/caninde.jpg',
-        name : 'Só as melhores',
-        artist : 'Canindé',
-        music : 'music/caninde-so-as-melhores.mp3'
-    },
     {   img : './images/safa.jpg',
         name : 'Paredes',
         artist : 'Wesley Safadão',
