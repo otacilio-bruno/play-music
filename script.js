@@ -21,6 +21,16 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
+    {  img : 'https://i.scdn.co/image/ab6761610000e5ebc3818203c1917d198f251756',
+       name : 'Doce pecado',
+       artist : 'Forró',
+       music : 'music/doce-pecado.mp3'
+    },
+    {  img : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxQcdPHYckagYIc0lATLIC0RQ5Rld6ZY3sAgyvrlmMmZHqegrJRPU4MJ9yXBwDV4m1Vg&usqp=CAU',
+       name : 'Meio dia',
+       artist : 'Matruz',
+       music : 'music/title (13).mp3',
+    },
     {  img : 'https://yt3.googleusercontent.com/hHf3w2RQbDau6a8VMU-2EUIKZrk_Bff2YrPfHpoY_nF6xMWvQ2201yRiHVbpmBEo3K0f69TemA=s176-c-k-c0x00ffffff-no-rj',
        name : 'Diversas',
        artist : 'Salles',
@@ -37,7 +47,7 @@ const music_list = [
        music : 'music/jungle-official-video.mp3'
     },
     {  img : './images/bigui.jpeg',
-       name : 'Sintonia Do Arrocha',
+       name : 'Arrocha',
        artist : 'Biguinho Sensação',
        music : 'music/title (11).mp3',
     },
