@@ -36,7 +36,7 @@ const music_list = [
        artist : 'Matruz',
        music : 'music/title (13).mp3',
     },
-    {  img : './images/sales.jpeg',
+    {  img : './images/show.jpeg',
        name : 'Diversas',
        artist : 'Salles',
        music : 'music/salles show piseiro vaneirão repertório novo outubro 2022.mp3'
