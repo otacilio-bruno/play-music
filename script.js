@@ -21,6 +21,11 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
+    {  img : 'https://yt3.googleusercontent.com/hHf3w2RQbDau6a8VMU-2EUIKZrk_Bff2YrPfHpoY_nF6xMWvQ2201yRiHVbpmBEo3K0f69TemA=s176-c-k-c0x00ffffff-no-rj',
+       name : 'Diversas',
+       artist : 'Salles',
+       music : 'music/salles show piseiro vaneirão repertório novo outubro 2022.mp3'
+    },
     {  img : './images/al.jpeg',
        name : 'Vila Mix',
        artist : 'ALOK',
