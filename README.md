@@ -1,4 +1,4 @@
 # Play-Music App Web
-- Tecnologias usadas HTML,CSS,JAVASCRIP.
+- Tecnologias usadas HTML,CSS,JAVASCRIPT.
   
   
