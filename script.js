@@ -21,6 +21,11 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
+    {  img : './images/K.jpeg',
+       name : 'SERESTÃO',
+       artist : 'KAZINHA 2024',
+       music : 'music/title (15).mp3'
+    },
     {  img : 'https://yt3.googleusercontent.com/7eG9StzoFgUjKcG3aSm_RRmPbJ5AUJENkgqcZP-WYE-H4K9x88Ga1gJcDgJp-y2eyKy6gfAxItA=s176-c-k-c0x00ffffff-no-rj',
        name : 'Casa de show ',
        artist : 'JACKSON',
