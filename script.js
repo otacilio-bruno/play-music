@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {  img : 'images/Biguinho2024.jpeg',
-       name : 'Promociuonal',
+       name : 'Promocional',
        artist : 'Biguinho',
        music : 'music/BIGUINHO SENSAÇÃO (PROMOCIONAL) REPERTÓRIO NOVO - JANEIRO (SERESTA DE VERÃO 2024) MÚSICAS NOVAS.mp3',
     },   
