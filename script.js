@@ -56,11 +56,6 @@ const music_list = [
        artist : 'Salles',
        music : 'music/salles show piseiro vaneirão repertório novo outubro 2022.mp3'
     },
-    {  img : './images/al.jpeg',
-       name : 'Vila Mix',
-       artist : 'ALOK',
-       music : 'music/alok-villa-mix-brasilia-2017-melhores-musicas-eletronicas-mais-tocadas-2017.mp3'
-    },
     {  img : './images/ALOK.jpeg',
        name : 'Chainsmokers',
        artist : 'ALOK',
