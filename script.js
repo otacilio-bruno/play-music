@@ -136,11 +136,6 @@ const music_list = [
         artist : 'Romeu Santos',
         music : 'music/Romeu santo.mp3'
     },
-    {   img : './images/alan.jpg',
-        name : '🎶Summer Vibes🎶',
-        artist : 'Alan Walker',
-        music : 'music/alan-walker-dua-lipa-coldplay-martin-garrix-and-kygo-the-chainsmokers-style-summer-vibes-1.mp3'
-    },
     {   img : './images/pablo.jpg',
         name : 'Fake News (Ei Mô)',
         artist : 'Pablo',
